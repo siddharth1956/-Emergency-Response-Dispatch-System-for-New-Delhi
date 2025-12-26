@@ -61,3 +61,7 @@ The project uses the following CSV files:
 1. Install required libraries:
    ```bash
    pip install pandas networkx matplotlib
+## Part 2 – Emergency Dispatch Optimization & Analysis
+Part 2 extends the system with emergency facility mapping, incident routing,
+priority-based dispatch using queues and heaps, Minimum Spanning Tree (MST)
+analysis, sorting-based analytics, and enhanced visualizations.
